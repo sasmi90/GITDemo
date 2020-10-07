@@ -21,4 +21,11 @@ public class RestAPITest {
 		System.out.println("Adding sysout message as a Git clone user");
 	}
 
+	@Test
+	public void GetDCQOKey()
+	{
+		System.out.println("GetDCQOKey");
+		
+	}
+
 }
