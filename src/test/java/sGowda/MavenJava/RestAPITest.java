@@ -28,4 +28,10 @@ public class RestAPITest {
 		
 	}
 
+	@Test
+	public void GetDCMKey()
+	{
+		System.out.println("GetDCMKey");
+		
+	}
 }

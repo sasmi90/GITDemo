@@ -15,4 +15,10 @@ public class SeleniumTest {
 	{
 		System.out.println("PaginationAutomation");
 	}
+	
+	@Test
+	public void WebUIAutomation()
+	{
+		System.out.println("WebUIAutomation");
+	}
 }
