@@ -16,4 +16,10 @@ public class AppiumTest {
 	{
 		System.out.println("MobileApplicationAutomation");
 	}
+	
+	@Test
+	public void MobileUIAutomation()
+	{
+		System.out.println("MobileUIAutomation");
+	}
 }
