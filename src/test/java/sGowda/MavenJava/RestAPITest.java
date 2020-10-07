@@ -9,6 +9,9 @@ public class RestAPITest {
 	{
 		System.out.println("APIAutomation");
 		System.out.println("Adding sysout message as a Git clone user");
+		
+	
+		System.out.println("Adding message from Git-Repo User");
 	}
 	
 	@Test

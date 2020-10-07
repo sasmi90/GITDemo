@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void MobileAutomation()
 	{
 		System.out.println("MobileAutomation");
+		System.out.println("Adding message from Git-Repo User");
 	}
 	
 	@Test
