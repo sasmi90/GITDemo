@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-27T13:34:01 IST" name="Suite" finished-at="2020-09-27T13:34:01 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2020-09-27T13:34:01 IST" name="Test" finished-at="2020-09-27T13:34:01 IST" duration-ms="90">
+      <class name="sGowda.MavenJava.AppiumTest">
+        <test-method signature="MobileApplicationAutomation()[pri:0, instance:sGowda.MavenJava.AppiumTest@72cde7cc]" started-at="2020-09-27T13:34:01 IST" name="MobileApplicationAutomation" finished-at="2020-09-27T13:34:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileApplicationAutomation -->
+        <test-method signature="MobileAutomation()[pri:0, instance:sGowda.MavenJava.AppiumTest@72cde7cc]" started-at="2020-09-27T13:34:01 IST" name="MobileAutomation" finished-at="2020-09-27T13:34:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+      </class> <!-- sGowda.MavenJava.AppiumTest -->
+      <class name="sGowda.MavenJava.RestAPITest">
+        <test-method signature="APIAutomation()[pri:0, instance:sGowda.MavenJava.RestAPITest@67080771]" started-at="2020-09-27T13:34:01 IST" name="APIAutomation" finished-at="2020-09-27T13:34:01 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIAutomation -->
+        <test-method signature="GetAPIKey()[pri:0, instance:sGowda.MavenJava.RestAPITest@67080771]" started-at="2020-09-27T13:34:01 IST" name="GetAPIKey" finished-at="2020-09-27T13:34:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAPIKey -->
+      </class> <!-- sGowda.MavenJava.RestAPITest -->
+      <class name="sGowda.MavenJava.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:sGowda.MavenJava.SeleniumTest@5fd4f8f5]" started-at="2020-09-27T13:34:01 IST" name="BrowserAutomation" finished-at="2020-09-27T13:34:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="PaginationAutomation()[pri:0, instance:sGowda.MavenJava.SeleniumTest@5fd4f8f5]" started-at="2020-09-27T13:34:01 IST" name="PaginationAutomation" finished-at="2020-09-27T13:34:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaginationAutomation -->
+      </class> <!-- sGowda.MavenJava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
